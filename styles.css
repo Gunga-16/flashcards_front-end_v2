@@ -27,7 +27,7 @@ body {
     background-color: var(--cor-de-fundo);
     display: flex;
     justify-content: center;
-    
+    align-items: center;
     height: 100vh;
 }
 
@@ -40,7 +40,7 @@ body {
     height: 60vh;
     gap: 3rem;
     font-size: 30px;
-    align-items: center;
+    align-content: center;
 }
 
 .flashcard {
