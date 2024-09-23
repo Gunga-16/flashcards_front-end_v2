@@ -63,6 +63,5 @@ button {
 }
 
 button:hover {
-    background-color: var(--cor-do-cartao);
-    color: var(--cor-titulo);
+    background-color: blue;
 }
