@@ -34,7 +34,7 @@ body {
 
 .flashcard-container {
     background-color: var(--cor-do-cartao);
-    width: 700px;
+    width: 900px;
     padding: 140px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
@@ -44,9 +44,7 @@ body {
     align-content: center;
 }
 
-.titulo-container {
-    width: 100%;
-}
+
 
 .flashcard {
     text-align: center;
