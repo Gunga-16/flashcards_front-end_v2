@@ -39,11 +39,12 @@ body {
     border-radius: 10px;
     height: 50vh;
     gap: 3rem;
+    font-size: 60px;
 }
 
 .flashcard {
     text-align: center;
-    font-size: 60px;
+    
 }
 
 .content {
