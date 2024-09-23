@@ -32,15 +32,15 @@ body {
 }
 
 .flashcard-container {
-    width: 1000px;
-    padding: 20px;
-    background-color: var(--cor-do-cartao);
+    width: 500px;
+    padding: 140px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    height: 100;
+    height: 50vh;
 }
 
 .flashcard {
+    background-color: var(--cor-do-cartao);
     text-align: center;
 }
 

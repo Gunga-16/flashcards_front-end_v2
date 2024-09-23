@@ -1,9 +1,9 @@
-document.getElementById('btnAvancar').addEventListener('click', function() {
+document.getElementById('avancar').addEventListener('click', function() {
     document.getElementById('pagina1').style.display = 'none';
     document.getElementById('pagina2').style.display = 'block';
 });
 
-document.getElementById('btnVirar').addEventListener('click', function() {
+document.getElementById('virar').addEventListener('click', function() {
     document.getElementById('pagina2').style.display = 'none';
     document.getElementById('pagina3').style.display = 'block';
 });
