@@ -53,6 +53,7 @@ body {
 }
 
 button {
+    padding: 10px 20px;
     background-color: var(--cor-botao-secundario);
     color: white;
     border: none;
