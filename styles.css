@@ -48,6 +48,13 @@ body {
     
 }
 
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+
 .content {
     padding: 20px;
     margin: 10px 0;
