@@ -33,7 +33,7 @@ body {
 
 .flashcard-container {
     background-color: var(--cor-do-cartao);
-    width: 500px;
+    width: 700px;
     padding: 140px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
@@ -43,9 +43,8 @@ body {
 
 .flashcard {
     text-align: center;
+    font-size: 100px;
 }
-
-
 
 .content {
     padding: 20px;
