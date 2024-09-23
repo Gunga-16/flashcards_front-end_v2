@@ -38,8 +38,7 @@ body {
     padding: 140px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    height: 60vh;
-    gap: 3rem;
+    height: 80vh;
     font-size: 30px;
     align-content: center;
 }
@@ -71,6 +70,7 @@ select {
 }
 
 button {
+    width: 100px;
     padding: 10px 20px;
     background-color: var(--cor-botao-secundario);
     color: white;
