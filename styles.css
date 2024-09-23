@@ -70,7 +70,7 @@ select {
 }
 
 button {
-    width: 100px;
+    size: 100px;
     padding: 10px 20px;
     background-color: var(--cor-botao-secundario);
     color: white;
