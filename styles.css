@@ -49,13 +49,13 @@ body {
     padding: 20px;
 }
 
-.content p {
+.content {
     padding: 20px;
     margin: 10px 0;
 }
 
 button {
-    padding: 10px 20px;
+    padding: 20px;
     background-color: var(--cor-botao-secundario);
     color: white;
     border: none;
