@@ -31,6 +31,7 @@ body {
     height: 100vh;
 }
 
+
 .flashcard-container {
     background-color: var(--cor-do-cartao);
     width: 700px;
@@ -41,6 +42,10 @@ body {
     gap: 3rem;
     font-size: 30px;
     align-content: center;
+}
+
+.titulo-container {
+    width: 100%;
 }
 
 .flashcard {
